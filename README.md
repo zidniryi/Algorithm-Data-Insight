@@ -1,5 +1,7 @@
 # Algorithm & Data Insight: Harnessing the Power of TypeScript for Efficient Development
 
+![Cover Image](https://raw.githubusercontent.com/zidniryi/Algorithm-Data-Insight/refs/heads/main/Cover.png)
+
 Welcome to the repository for my free eBook, **"Algorithm & Data Insight: Harnessing the Power of TypeScript for Efficient Development"**! This book is designed to help you learn algorithms, data structures, and how to implement them efficiently using TypeScript. Whether you're a beginner or an experienced developer, this book provides a practical guide to mastering algorithms with TypeScript.
 
 ## 📖 About the Book
@@ -17,7 +19,7 @@ The book is **FREE for learning purposes** and is available to anyone interested
 
 You can download the eBook for free from this repository:
 
-- [Download Link](https://github.com/zidniryi/Algorithm-Data-Insight/blob/main/Algorithms%20%26%20Data%20Insight.pdf)
+- [Download Link](your_download_link_here)
 
 ## 🔨 How to Use This Book
 
